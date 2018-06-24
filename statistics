@@ -1,0 +1,28 @@
+# html-website-on-Tourism-in-India
+<html>
+<head>
+<title>statistics</title>
+</head>
+<body>
+<body bgcolor=black>
+<h1><font color=red><b>STATISTICS</b></h1>
+<br>
+<h2><b>Foreign tourist arrivals and foreign exchange earnings</b></h2>
+<br>
+<h3><b>Foreign tourist arrivals in India (1997-2016)</b></h3>
+<br>
+<img src="arrival.jpg.png">
+<h4><b>Foreign exchange earnings from tourism in India</b></h4>
+<br>
+<img src="arrival2.jpg.png">
+<h5><b>Source countries for foreign tourist arrivals in India</b></h5>
+<br>
+<img src="arrival3.jpg.png">
+<br>
+<a href="travelandtourism.html">HOME</a>
+<br>
+<a href="indianvisa.html">VISA POLICY OF INDIA</a>
+</body>
+</html>
+
+
